@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sentence Battle</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app">
+    <header>
+      <h1>Sentence Battle</h1>
+      <p>라운드마다 몬스터를 물리치고, 보스를 처치하세요!</p>
+    </header>
+
+    <section id="setup-screen" class="screen active">
+      <div class="panel">
+        <h2>선생님 설정</h2>
+        <div class="input-row">
+          <input id="sentence-input" type="text" placeholder="예: I am [in common] with him" />
+          <button id="add-btn" class="btn secondary">추가</button>
+        </div>
+        <ul id="sentence-list"></ul>
+        <p id="hint" class="hint">
+          문장을 추가한 뒤 게임을 시작하세요.<br>
+          <small>한 장으로 묶을 구는 <code>[in common]</code> 처럼 대괄호로 감싸세요.</small>
+        </p>
+        <div class="settings">
+          <label>보스 HP <input id="enemy-hp" type="number" value="50" min="10" max="200" /></label>
+          <label>플레이어 HP <input id="player-hp" type="number" value="30" min="10" max="100" /></label>
+        </div>
+        <p id="damage-preview" class="damage-preview"></p>
+        <button id="start-btn" class="btn primary" disabled>게임 시작</button>
+      </div>
+    </section>
+
+    <section id="game-screen" class="screen">
+      <div class="battle">
+        <div class="enemy" id="enemy-panel">
+          <p id="monster-name" class="monster-name">몬스터</p>
+          <div id="enemy-sprite" class="sprite">🐸</div>
+          <div class="bar-wrap">
+            <span id="enemy-hp-label">몬스터 HP</span>
+            <div class="bar"><div id="enemy-fill" class="fill enemy"></div></div>
+            <span id="enemy-hp-text">20 / 20</span>
+          </div>
+        </div>
+        <div class="player">
+          <div class="bar-wrap">
+            <span>플레이어 HP</span>
+            <div class="bar"><div id="player-fill" class="fill player"></div></div>
+            <span id="player-hp-text">30 / 30</span>
+          </div>
+          <div class="bar-wrap">
+            <span>공격 게이지</span>
+            <div class="bar"><div id="gauge-fill" class="fill gauge"></div></div>
+            <span id="gauge-text">0%</span>
+          </div>
+          <div id="inventory-panel" class="inventory-panel">
+            <p id="inventory-label" class="inventory-label">보유 아이템</p>
+            <p id="inventory-hint" class="inventory-hint">라운드 클리어 시 획득</p>
+            <div id="inventory-list" class="inventory-list"></div>
+          </div>
+        </div>
+      </div>
+
+      <p id="round-info" class="round"></p>
+      <p id="damage-info" class="damage-info"></p>
+      <p id="message" class="message">카드를 올바른 순서로 클릭하세요</p>
+      <p id="built" class="built"></p>
+      <div id="cards" class="cards"></div>
+
+      <div class="actions">
+        <button id="retry-btn" class="btn secondary">이 문장 다시</button>
+        <button id="back-btn" class="btn ghost">설정으로</button>
+      </div>
+    </section>
+
+    <section id="result-screen" class="screen">
+      <div class="panel result">
+        <div id="result-icon" class="result-icon">🎉</div>
+        <h2 id="result-title">승리!</h2>
+        <p id="result-desc"></p>
+        <button id="again-btn" class="btn primary">다시 하기</button>
+        <button id="back-btn-2" class="btn ghost">설정으로</button>
+      </div>
+    </section>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
