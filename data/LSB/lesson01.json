@@ -1,0 +1,33 @@
+{
+  "id": "lsb-01",
+  "level": "LSB",
+  "lesson": 1,
+  "title": "Do you ~?",
+  "pattern": "Do you + verb ...?",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "Do you like reading books?"
+    },
+    {
+      "id": "s02",
+      "sentence": "Do you want some apple juice?"
+    },
+    {
+      "id": "s03",
+      "sentence": "Do you know my new friend?"
+    },
+    {
+      "id": "s04",
+      "sentence": "Do you play the piano well?"
+    },
+    {
+      "id": "s05",
+      "sentence": "Do you walk to school every day?"
+    },
+    {
+      "id": "s06",
+      "sentence": "Do you watch cartoons on weekends?"
+    }
+  ]
+}

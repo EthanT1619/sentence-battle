@@ -1,0 +1,9 @@
+{
+  "name": "sentence-battle",
+  "private": true,
+  "description": "Sentence Battle — local dev server for curriculum fetch",
+  "scripts": {
+    "start": "npx --yes http-server . -p 8080 -c-1",
+    "dev": "npx --yes http-server . -p 8080 -c-1"
+  }
+}

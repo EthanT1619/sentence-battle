@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "levels": [
+    {
+      "id": "LSA",
+      "label": "LSA",
+      "lessons": [
+        {
+          "id": "lsa-01",
+          "lesson": 1,
+          "title": "Can you ~?",
+          "pattern": "Can you + verb ...?",
+          "file": "LSA/lesson01.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsa-02",
+          "lesson": 2,
+          "title": "Sample (coming soon)",
+          "file": "LSA/lesson02.json",
+          "availability": "unavailable"
+        }
+      ]
+    },
+    {
+      "id": "LSB",
+      "label": "LSB",
+      "lessons": [
+        {
+          "id": "lsb-01",
+          "lesson": 1,
+          "title": "Do you ~?",
+          "pattern": "Do you + verb ...?",
+          "file": "LSB/lesson01.json",
+          "availability": "available"
+        }
+      ]
+    }
+  ]
+}

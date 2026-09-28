@@ -1,0 +1,38 @@
+{
+  "id": "lsa-01",
+  "level": "LSA",
+  "lesson": 1,
+  "title": "Can you ~?",
+  "pattern": "Can you + verb ...?",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "Can you play soccer after school?"
+    },
+    {
+      "id": "s02",
+      "sentence": "Can you ride a bike with me?"
+    },
+    {
+      "id": "s03",
+      "sentence": "Can you help me with homework?"
+    },
+    {
+      "id": "s04",
+      "sentence": "Can you sing this song today?"
+    },
+    {
+      "id": "s05",
+      "sentence": "Can you draw a map for us?"
+    },
+    {
+      "id": "s06",
+      "sentence": "Can you open the window please?"
+    },
+    {
+      "id": "s07",
+      "sentence": "What does your sister do after school?",
+      "tokens": ["What", "does", "your", "sister", "do", "after", "school", "?"]
+    }
+  ]
+}

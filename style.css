@@ -228,4 +228,55 @@ input[type="number"] { width: 70px; }
 .result p { color: #a89bb8; margin-bottom: 20px; }
 .result .btn { margin: 4px; }
 
-#start-btn { width: 100%; margin-top: 8px; padding: 14px; font-size: 1.1rem; }
+#start-btn, #pattern-start-btn { width: 100%; margin-top: 8px; padding: 14px; font-size: 1.1rem; }
+
+.mode-panel { text-align: center; }
+.mode-btn {
+  width: 100%;
+  display: block;
+  margin-bottom: 12px;
+  padding: 16px;
+  line-height: 1.4;
+}
+.mode-btn small {
+  display: block;
+  font-size: 0.85rem;
+  font-weight: normal;
+  opacity: 0.85;
+  margin-top: 6px;
+}
+.panel-head {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+.panel-head h2 { margin: 0; flex: 1; }
+.btn.small { padding: 6px 10px; font-size: 0.85rem; }
+.breadcrumb { color: #a89bb8; font-size: 0.85rem; margin-bottom: 8px; min-height: 1.2em; }
+.select-list { display: grid; gap: 10px; margin-bottom: 16px; }
+.select-card {
+  width: 100%;
+  text-align: left;
+  background: #1a1428;
+  border: 2px solid #4a3f6b;
+  color: #f0e6d8;
+  border-radius: 10px;
+  padding: 14px 16px;
+  cursor: pointer;
+  transition: border-color 0.15s, transform 0.1s;
+}
+.select-card:hover { border-color: #ffd166; transform: translateY(-1px); }
+.select-card strong { display: block; color: #ffd166; margin-bottom: 4px; }
+.select-card span { font-size: 0.85rem; color: #a89bb8; }
+.empty-hint, .error-hint { color: #a89bb8; }
+.error-hint { color: #e63946; }
+.pattern-meta.hidden { display: none; }
+.pattern-meta p { margin-bottom: 8px; color: #ffd166; }
+.pattern-settings { margin: 12px 0; }
+
+@media (max-width: 390px) {
+  .card { padding: 12px 14px; font-size: 1rem; }
+  .cards { gap: 8px; }
+  .battle { flex-direction: column; }
+}

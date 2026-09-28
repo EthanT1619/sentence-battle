@@ -10,12 +10,50 @@
   <div class="app">
     <header>
       <h1>Sentence Battle</h1>
-      <p>라운드마다 몬스터를 물리치고, 보스를 처치하세요!</p>
+      <p id="header-subtitle">문장 순서를 맞춰 몬스터를 물리치세요!</p>
     </header>
 
-    <section id="setup-screen" class="screen active">
+    <section id="home-screen" class="screen active">
+      <div class="panel mode-panel">
+        <h2>연습 방법 선택</h2>
+        <button id="go-pattern-btn" class="btn mode-btn primary">
+          Pattern Practice
+          <small>교재 Pattern in Speaking으로 연습</small>
+        </button>
+        <button id="go-custom-btn" class="btn mode-btn secondary">
+          Custom Battle
+          <small>문장을 직접 넣어 연습</small>
+        </button>
+      </div>
+    </section>
+
+    <section id="pattern-screen" class="screen">
       <div class="panel">
-        <h2>선생님 설정</h2>
+        <div class="panel-head">
+          <button id="pattern-back-btn" class="btn ghost small">← 뒤로</button>
+          <h2>Pattern Practice</h2>
+        </div>
+        <p id="pattern-breadcrumb" class="breadcrumb"></p>
+        <p id="pattern-status" class="hint">레벨을 선택하세요.</p>
+        <div id="pattern-list" class="select-list"></div>
+        <div id="pattern-meta" class="pattern-meta hidden">
+          <p id="pattern-meta-title"></p>
+          <p id="pattern-meta-pattern"></p>
+          <div class="settings pattern-settings">
+            <label>보스 HP <input id="pattern-enemy-hp" type="number" value="50" min="10" max="200" /></label>
+            <label>플레이어 HP <input id="pattern-player-hp" type="number" value="30" min="10" max="100" /></label>
+          </div>
+          <button id="pattern-start-btn" class="btn primary" disabled>Start Battle</button>
+        </div>
+      </div>
+    </section>
+
+    <section id="custom-screen" class="screen">
+      <div class="panel">
+        <div class="panel-head">
+          <button id="custom-back-btn" class="btn ghost small">← 홈</button>
+          <h2>Custom Battle · 선생님 설정</h2>
+        </div>
         <div class="input-row">
           <input id="sentence-input" type="text" placeholder="예: I am [in common] with him" />
           <button id="add-btn" class="btn secondary">추가</button>
@@ -72,7 +110,7 @@
 
       <div class="actions">
         <button id="retry-btn" class="btn secondary">이 문장 다시</button>
-        <button id="back-btn" class="btn ghost">설정으로</button>
+        <button id="back-btn" class="btn ghost">나가기</button>
       </div>
     </section>
 
@@ -82,10 +120,10 @@
         <h2 id="result-title">승리!</h2>
         <p id="result-desc"></p>
         <button id="again-btn" class="btn primary">다시 하기</button>
-        <button id="back-btn-2" class="btn ghost">설정으로</button>
+        <button id="back-btn-2" class="btn ghost">나가기</button>
       </div>
     </section>
   </div>
-  <script src="script.js"></script>
+  <script type="module" src="js/main.js"></script>
 </body>
 </html>
