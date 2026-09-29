@@ -1,0 +1,41 @@
+{
+  "id": "lsc-05-piw",
+  "level": "LSC",
+  "lesson": 5,
+  "type": "PiW",
+  "title": "PiW 5",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "Last weekend, I did a few fun things."
+    },
+    {
+      "id": "s02",
+      "sentence": "I went to the swimming pool with my father."
+    },
+    {
+      "id": "s03",
+      "sentence": "I traveled to Hawaii with my family."
+    },
+    {
+      "id": "s04",
+      "sentence": "I swam in the ocean, which was really fun."
+    },
+    {
+      "id": "s05",
+      "sentence": "After I finished my homework, I went to the park."
+    },
+    {
+      "id": "s06",
+      "sentence": "It was warm, so we went to the park."
+    },
+    {
+      "id": "s07",
+      "sentence": "I didn't go outside because it was raining."
+    },
+    {
+      "id": "s08",
+      "sentence": "The best part of my weekend was watching a movie."
+    }
+  ]
+}

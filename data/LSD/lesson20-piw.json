@@ -1,0 +1,41 @@
+{
+  "id": "lsd-20-piw",
+  "level": "LSD",
+  "lesson": 20,
+  "type": "PiW",
+  "title": "PiW 20",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "Have you ever been proud of yourself for something you did?"
+    },
+    {
+      "id": "s02",
+      "sentence": "This was a challenge because the test would be in one week."
+    },
+    {
+      "id": "s03",
+      "sentence": "I felt really worried because I was not ready."
+    },
+    {
+      "id": "s04",
+      "sentence": "I decided to study with my best friend."
+    },
+    {
+      "id": "s05",
+      "sentence": "I started to feel better because we helped each other learn everything."
+    },
+    {
+      "id": "s06",
+      "sentence": "I think that we got good scores because we studied everything together."
+    },
+    {
+      "id": "s07",
+      "sentence": "I learned that if I work hard, I can be successful."
+    },
+    {
+      "id": "s08",
+      "sentence": "I was very proud that we helped each other do well on the test."
+    }
+  ]
+}

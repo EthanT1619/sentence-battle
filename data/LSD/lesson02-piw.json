@@ -1,0 +1,41 @@
+{
+  "id": "lsd-02-piw",
+  "level": "LSD",
+  "lesson": 2,
+  "type": "PiW",
+  "title": "PiW 2",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "Do you think that tigers are interesting?"
+    },
+    {
+      "id": "s02",
+      "sentence": "What do you think is the most interesting animal?"
+    },
+    {
+      "id": "s03",
+      "sentence": "Did you know that tigers are the largest of all the big cats?"
+    },
+    {
+      "id": "s04",
+      "sentence": "An amazing fact about giraffes is that they are the tallest animal."
+    },
+    {
+      "id": "s05",
+      "sentence": "You might think sharks are crazy, but they aren't really dangerous."
+    },
+    {
+      "id": "s06",
+      "sentence": "If you ask me, zebras are the most beautiful animal in the world."
+    },
+    {
+      "id": "s07",
+      "sentence": "I think that penguins are the cutest animal in the world."
+    },
+    {
+      "id": "s08",
+      "sentence": "I believe that we should protect wild sea turtles."
+    }
+  ]
+}

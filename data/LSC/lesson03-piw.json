@@ -1,0 +1,41 @@
+{
+  "id": "lsc-03-piw",
+  "level": "LSC",
+  "lesson": 3,
+  "type": "PiW",
+  "title": "PiW 3",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "I want to tell you about one of my best friends."
+    },
+    {
+      "id": "s02",
+      "sentence": "I like her because she is always kind to me."
+    },
+    {
+      "id": "s03",
+      "sentence": "She looks like her mother."
+    },
+    {
+      "id": "s04",
+      "sentence": "We meet in the park on the weekend."
+    },
+    {
+      "id": "s05",
+      "sentence": "My friend is good at playing piano."
+    },
+    {
+      "id": "s06",
+      "sentence": "We like to play soccer at the park together."
+    },
+    {
+      "id": "s07",
+      "sentence": "Sometimes, we play video games at his house."
+    },
+    {
+      "id": "s08",
+      "sentence": "He is a really fantastic friend."
+    }
+  ]
+}

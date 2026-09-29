@@ -1,0 +1,41 @@
+{
+  "id": "lsc-17-piw",
+  "level": "LSC",
+  "lesson": 17,
+  "type": "PiW",
+  "title": "PiW 17",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "I think cats are better than dogs."
+    },
+    {
+      "id": "s02",
+      "sentence": "I think cats are more interesting than dogs."
+    },
+    {
+      "id": "s03",
+      "sentence": "Dogs are cuter than cats."
+    },
+    {
+      "id": "s04",
+      "sentence": "Pizza is the most delicious food."
+    },
+    {
+      "id": "s05",
+      "sentence": "Dogs are different from cats."
+    },
+    {
+      "id": "s06",
+      "sentence": "Dogs are the friendliest pet of all."
+    },
+    {
+      "id": "s07",
+      "sentence": "My mom is as tall as my dad."
+    },
+    {
+      "id": "s08",
+      "sentence": "I would rather play a game than watch a movie."
+    }
+  ]
+}

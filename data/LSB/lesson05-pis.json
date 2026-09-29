@@ -1,0 +1,41 @@
+{
+  "id": "lsb-05-pis",
+  "level": "LSB",
+  "lesson": 5,
+  "type": "PiS",
+  "title": "PiS 5",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "Father told us not to go into the desert alone."
+    },
+    {
+      "id": "s02",
+      "sentence": "He was fascinated by pyramids."
+    },
+    {
+      "id": "s03",
+      "sentence": "You'll have a chance to look inside."
+    },
+    {
+      "id": "s04",
+      "sentence": "The opening was just big enough for them to squeeze through."
+    },
+    {
+      "id": "s05",
+      "sentence": "We might be squashed any minute."
+    },
+    {
+      "id": "s06",
+      "sentence": "They kept on going."
+    },
+    {
+      "id": "s07",
+      "sentence": "The chamber was filled with strange objects."
+    },
+    {
+      "id": "s08",
+      "sentence": "We can ask him to help us get out of here."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "lsa-02-pis",
+  "level": "LSA",
+  "lesson": 2,
+  "type": "PiS",
+  "title": "PiS 2",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "He doesn't have to worry."
+    },
+    {
+      "id": "s02",
+      "sentence": "We can find a solution to the problem."
+    },
+    {
+      "id": "s03",
+      "sentence": "I put my head back under the water."
+    },
+    {
+      "id": "s04",
+      "sentence": "I dried myself off quickly."
+    },
+    {
+      "id": "s05",
+      "sentence": "She owns a lot of stuff."
+    },
+    {
+      "id": "s06",
+      "sentence": "I took her to his house."
+    }
+  ]
+}

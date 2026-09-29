@@ -1,0 +1,41 @@
+{
+  "id": "lsd-21-piw",
+  "level": "LSD",
+  "lesson": 21,
+  "type": "PiW",
+  "title": "PiW 21",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "Eddie was introduced to Annika and Dr.Webber."
+    },
+    {
+      "id": "s02",
+      "sentence": "The team was told to check in for their flight."
+    },
+    {
+      "id": "s03",
+      "sentence": "A jaguar was spotted by Eddie."
+    },
+    {
+      "id": "s04",
+      "sentence": "Some large creatures were seen flying in the distance."
+    },
+    {
+      "id": "s05",
+      "sentence": "The birds were mistaken for Pterosaurs."
+    },
+    {
+      "id": "s06",
+      "sentence": "The flying creatures were identified as jabiru storks."
+    },
+    {
+      "id": "s07",
+      "sentence": "The anaconda was caught by Dr.Webber."
+    },
+    {
+      "id": "s08",
+      "sentence": "A photo of the anaconda was taken by Eddie."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "lsc-22-piw",
+  "level": "LSC",
+  "lesson": 22,
+  "type": "PiW",
+  "title": "PiW 22",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "I was proud of myself for helping my friend."
+    },
+    {
+      "id": "s02",
+      "sentence": "One day, I saw my friend at the park."
+    },
+    {
+      "id": "s03",
+      "sentence": "She was looking for her cat."
+    },
+    {
+      "id": "s04",
+      "sentence": "I offered to look for her cat in the park."
+    },
+    {
+      "id": "s05",
+      "sentence": "She was able to find her cat quickly."
+    },
+    {
+      "id": "s06",
+      "sentence": "She was happy to find her cat."
+    },
+    {
+      "id": "s07",
+      "sentence": "Helping my friend was a very valuable experience."
+    },
+    {
+      "id": "s08",
+      "sentence": "I felt great because I did something good."
+    }
+  ]
+}

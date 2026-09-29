@@ -1,0 +1,41 @@
+{
+  "id": "lsc-10-piw",
+  "level": "LSC",
+  "lesson": 10,
+  "type": "PiW",
+  "title": "PiW 10",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "My friend and I like to do lots of interesting activities together."
+    },
+    {
+      "id": "s02",
+      "sentence": "I like to listen to new music with my friends at home."
+    },
+    {
+      "id": "s03",
+      "sentence": "It's fun to play board games together."
+    },
+    {
+      "id": "s04",
+      "sentence": "We usually play soccer at the park."
+    },
+    {
+      "id": "s05",
+      "sentence": "We like to do exciting activities like playing badminton."
+    },
+    {
+      "id": "s06",
+      "sentence": "I often invite my friends to my house to read comic books."
+    },
+    {
+      "id": "s07",
+      "sentence": "Sometimes we go hiking together."
+    },
+    {
+      "id": "s08",
+      "sentence": "These are the three activities my fantastic friends and I like to do."
+    }
+  ]
+}

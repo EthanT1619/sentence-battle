@@ -1,0 +1,41 @@
+{
+  "id": "lsc-15-piw",
+  "level": "LSC",
+  "lesson": 15,
+  "type": "PiW",
+  "title": "PiW 15",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "An interesting place I have been to is France."
+    },
+    {
+      "id": "s02",
+      "sentence": "An interesting thing I have seen on vacation is the Eiffel Tower."
+    },
+    {
+      "id": "s03",
+      "sentence": "I have gone snorkeling while on vacation at the beach."
+    },
+    {
+      "id": "s04",
+      "sentence": "I have eaten amazing pizza on vacation in Italy."
+    },
+    {
+      "id": "s05",
+      "sentence": "Have you ever flown on an airplane?"
+    },
+    {
+      "id": "s06",
+      "sentence": "I know that my father has been to New York."
+    },
+    {
+      "id": "s07",
+      "sentence": "My mother has already been to Australia."
+    },
+    {
+      "id": "s08",
+      "sentence": "I have never been to Canada."
+    }
+  ]
+}

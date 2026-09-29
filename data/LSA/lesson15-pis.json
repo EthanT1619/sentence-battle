@@ -1,0 +1,33 @@
+{
+  "id": "lsa-15-pis",
+  "level": "LSA",
+  "lesson": 15,
+  "type": "PiS",
+  "title": "PiS 15",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "She also liked sliding from side to side."
+    },
+    {
+      "id": "s02",
+      "sentence": "Julie didn't know how to spell them."
+    },
+    {
+      "id": "s03",
+      "sentence": "Will you help me set the table?"
+    },
+    {
+      "id": "s04",
+      "sentence": "He will tell on me."
+    },
+    {
+      "id": "s05",
+      "sentence": "He finished off with his favorite subject."
+    },
+    {
+      "id": "s06",
+      "sentence": "She was usually very talkative."
+    }
+  ]
+}

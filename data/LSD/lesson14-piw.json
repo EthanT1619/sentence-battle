@@ -1,0 +1,41 @@
+{
+  "id": "lsd-14-piw",
+  "level": "LSD",
+  "lesson": 14,
+  "type": "PiW",
+  "title": "PiW 14",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "Let me tell you why Hawaii should be your next travel destination."
+    },
+    {
+      "id": "s02",
+      "sentence": "Hawaii is the home of Waikiki Beach."
+    },
+    {
+      "id": "s03",
+      "sentence": "Waikiki Beach is one of the most famous beaches in the world."
+    },
+    {
+      "id": "s04",
+      "sentence": "People come from all over the world to visit this famous beach."
+    },
+    {
+      "id": "s05",
+      "sentence": "Hawaii is a convenient place to travel to."
+    },
+    {
+      "id": "s06",
+      "sentence": "There are many great hotels right on the beach."
+    },
+    {
+      "id": "s07",
+      "sentence": "You can enjoy surfing, swimming, and sunshine."
+    },
+    {
+      "id": "s08",
+      "sentence": "A trip to Hawaii will be the best vacation of your life."
+    }
+  ]
+}

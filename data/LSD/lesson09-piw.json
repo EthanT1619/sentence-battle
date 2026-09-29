@@ -1,0 +1,41 @@
+{
+  "id": "lsd-09-piw",
+  "level": "LSD",
+  "lesson": 9,
+  "type": "PiW",
+  "title": "PiW 9",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "The strangest character who Alice met was the White Queen."
+    },
+    {
+      "id": "s02",
+      "sentence": "The strangest thing that the Red Queen did was give Alice a dry biscuit."
+    },
+    {
+      "id": "s03",
+      "sentence": "Alice felt confused when she was talking to the Red Queen."
+    },
+    {
+      "id": "s04",
+      "sentence": "The strangest place was the train where Alice met the goat."
+    },
+    {
+      "id": "s05",
+      "sentence": "The Red Queen who helped Alice was the silliest character in the story."
+    },
+    {
+      "id": "s06",
+      "sentence": "Alice met the Lily when she was walking in the garden."
+    },
+    {
+      "id": "s07",
+      "sentence": "I think the poem that Tweedledee recited was silly."
+    },
+    {
+      "id": "s08",
+      "sentence": "The strangest moment in the story was when Alice went through the mirror."
+    }
+  ]
+}

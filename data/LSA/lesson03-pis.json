@@ -1,0 +1,33 @@
+{
+  "id": "lsa-03-pis",
+  "level": "LSA",
+  "lesson": 3,
+  "type": "PiS",
+  "title": "PiS 3",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "I am scared of them all."
+    },
+    {
+      "id": "s02",
+      "sentence": "You are allergic to fake latex."
+    },
+    {
+      "id": "s03",
+      "sentence": "I wish for an eraser."
+    },
+    {
+      "id": "s04",
+      "sentence": "I come out from behind the door."
+    },
+    {
+      "id": "s05",
+      "sentence": "I know about your problem."
+    },
+    {
+      "id": "s06",
+      "sentence": "I wonder what your uncle means."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "lsb-22-pis",
+  "level": "LSB",
+  "lesson": 22,
+  "type": "PiS",
+  "title": "PiS 22",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "The giant bugs must be a result of the liquid."
+    },
+    {
+      "id": "s02",
+      "sentence": "He took a deep breath and stood up."
+    },
+    {
+      "id": "s03",
+      "sentence": "There must have been something else."
+    },
+    {
+      "id": "s04",
+      "sentence": "Hitting the giant bug wasn't easy."
+    },
+    {
+      "id": "s05",
+      "sentence": "They had better find a way to reverse the formula soon."
+    },
+    {
+      "id": "s06",
+      "sentence": "There are all sorts of giant bugs out there."
+    },
+    {
+      "id": "s07",
+      "sentence": "I've figured out a way to reverse the formula."
+    },
+    {
+      "id": "s08",
+      "sentence": "The plan worked perfectly."
+    }
+  ]
+}

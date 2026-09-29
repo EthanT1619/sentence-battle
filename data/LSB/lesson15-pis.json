@@ -1,0 +1,41 @@
+{
+  "id": "lsb-15-pis",
+  "level": "LSB",
+  "lesson": 15,
+  "type": "PiS",
+  "title": "PiS 15",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "It wouldn't be the same without Eddie."
+    },
+    {
+      "id": "s02",
+      "sentence": "He had gone exploring on his own before."
+    },
+    {
+      "id": "s03",
+      "sentence": "He was up for the challenge."
+    },
+    {
+      "id": "s04",
+      "sentence": "All of a sudden, a purple thing popped up."
+    },
+    {
+      "id": "s05",
+      "sentence": "He was starting to feel sorry for him."
+    },
+    {
+      "id": "s06",
+      "sentence": "He had decided on the way home not to tell anyone."
+    },
+    {
+      "id": "s07",
+      "sentence": "He would pretend to look at it for a moment."
+    },
+    {
+      "id": "s08",
+      "sentence": "He made sure to include the hole."
+    }
+  ]
+}

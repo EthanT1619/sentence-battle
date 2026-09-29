@@ -1,0 +1,41 @@
+{
+  "id": "lsc-14-piw",
+  "level": "LSC",
+  "lesson": 14,
+  "type": "PiW",
+  "title": "PiW 14",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "I want to invent the Pollution Vacuum."
+    },
+    {
+      "id": "s02",
+      "sentence": "I want to make an easy way for students to get to school."
+    },
+    {
+      "id": "s03",
+      "sentence": "The Rocket Bus will be the fastest way to get to school."
+    },
+    {
+      "id": "s04",
+      "sentence": "The Mobile Teacher will help students study at home."
+    },
+    {
+      "id": "s05",
+      "sentence": "The Robot Dog will be helpful for people who want a pet."
+    },
+    {
+      "id": "s06",
+      "sentence": "It is going to help students get home safely."
+    },
+    {
+      "id": "s07",
+      "sentence": "Everyone will want the Robot Dog because it will be so cute."
+    },
+    {
+      "id": "s08",
+      "sentence": "That's why I am going to make this new invention."
+    }
+  ]
+}

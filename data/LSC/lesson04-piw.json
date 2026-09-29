@@ -1,0 +1,41 @@
+{
+  "id": "lsc-04-piw",
+  "level": "LSC",
+  "lesson": 4,
+  "type": "PiW",
+  "title": "PiW 4",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "I would like to meet Picasso's Ghost because he is good at art."
+    },
+    {
+      "id": "s02",
+      "sentence": "He knows all about math and science."
+    },
+    {
+      "id": "s03",
+      "sentence": "She can teach me how to sing."
+    },
+    {
+      "id": "s04",
+      "sentence": "He can help me with my math homework."
+    },
+    {
+      "id": "s05",
+      "sentence": "Ghost Hamster is the cutest ghost ever."
+    },
+    {
+      "id": "s06",
+      "sentence": "Einstein's Ghost is the most intelligent ghost in the world."
+    },
+    {
+      "id": "s07",
+      "sentence": "As you can see, Einstein's Ghost is intelligent and interesting."
+    },
+    {
+      "id": "s08",
+      "sentence": "He is the ghost I would like to meet."
+    }
+  ]
+}

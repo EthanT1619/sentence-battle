@@ -1,0 +1,33 @@
+{
+  "id": "lsa-20-pis",
+  "level": "LSA",
+  "lesson": 20,
+  "type": "PiS",
+  "title": "PiS 20",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "The best part was taking tests."
+    },
+    {
+      "id": "s02",
+      "sentence": "He was busy using the power for himself."
+    },
+    {
+      "id": "s03",
+      "sentence": "I wonder what's going on in there."
+    },
+    {
+      "id": "s04",
+      "sentence": "We need to open the safe."
+    },
+    {
+      "id": "s05",
+      "sentence": "Your listening has really improved."
+    },
+    {
+      "id": "s06",
+      "sentence": "Sarah was glad to have a normal classmate."
+    }
+  ]
+}

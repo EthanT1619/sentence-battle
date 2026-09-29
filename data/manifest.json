@@ -6,19 +6,164 @@
       "label": "LSA",
       "lessons": [
         {
-          "id": "lsa-01",
+          "id": "lsa-01-pis",
           "lesson": 1,
-          "title": "Can you ~?",
-          "pattern": "Can you + verb ...?",
-          "file": "LSA/lesson01.json",
+          "type": "PiS",
+          "title": "PiS 1",
+          "file": "LSA/lesson01-pis.json",
           "availability": "available"
         },
         {
-          "id": "lsa-02",
+          "id": "lsa-02-pis",
           "lesson": 2,
-          "title": "Sample (coming soon)",
-          "file": "LSA/lesson02.json",
-          "availability": "unavailable"
+          "type": "PiS",
+          "title": "PiS 2",
+          "file": "LSA/lesson02-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsa-03-pis",
+          "lesson": 3,
+          "type": "PiS",
+          "title": "PiS 3",
+          "file": "LSA/lesson03-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsa-04-pis",
+          "lesson": 4,
+          "type": "PiS",
+          "title": "PiS 4",
+          "file": "LSA/lesson04-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsa-05-pis",
+          "lesson": 5,
+          "type": "PiS",
+          "title": "PiS 5",
+          "file": "LSA/lesson05-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsa-06-pis",
+          "lesson": 6,
+          "type": "PiS",
+          "title": "PiS 6",
+          "file": "LSA/lesson06-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsa-07-pis",
+          "lesson": 7,
+          "type": "PiS",
+          "title": "PiS 7",
+          "file": "LSA/lesson07-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsa-08-pis",
+          "lesson": 8,
+          "type": "PiS",
+          "title": "PiS 8",
+          "file": "LSA/lesson08-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsa-09-pis",
+          "lesson": 9,
+          "type": "PiS",
+          "title": "PiS 9",
+          "file": "LSA/lesson09-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsa-10-pis",
+          "lesson": 10,
+          "type": "PiS",
+          "title": "PiS 10",
+          "file": "LSA/lesson10-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsa-13-pis",
+          "lesson": 13,
+          "type": "PiS",
+          "title": "PiS 13",
+          "file": "LSA/lesson13-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsa-14-pis",
+          "lesson": 14,
+          "type": "PiS",
+          "title": "PiS 14",
+          "file": "LSA/lesson14-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsa-15-pis",
+          "lesson": 15,
+          "type": "PiS",
+          "title": "PiS 15",
+          "file": "LSA/lesson15-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsa-16-pis",
+          "lesson": 16,
+          "type": "PiS",
+          "title": "PiS 16",
+          "file": "LSA/lesson16-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsa-17-pis",
+          "lesson": 17,
+          "type": "PiS",
+          "title": "PiS 17",
+          "file": "LSA/lesson17-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsa-18-pis",
+          "lesson": 18,
+          "type": "PiS",
+          "title": "PiS 18",
+          "file": "LSA/lesson18-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsa-19-pis",
+          "lesson": 19,
+          "type": "PiS",
+          "title": "PiS 19",
+          "file": "LSA/lesson19-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsa-20-pis",
+          "lesson": 20,
+          "type": "PiS",
+          "title": "PiS 20",
+          "file": "LSA/lesson20-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsa-21-pis",
+          "lesson": 21,
+          "type": "PiS",
+          "title": "PiS 21",
+          "file": "LSA/lesson21-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsa-22-pis",
+          "lesson": 22,
+          "type": "PiS",
+          "title": "PiS 22",
+          "file": "LSA/lesson22-pis.json",
+          "availability": "available"
         }
       ]
     },
@@ -27,11 +172,495 @@
       "label": "LSB",
       "lessons": [
         {
-          "id": "lsb-01",
+          "id": "lsb-01-pis",
           "lesson": 1,
-          "title": "Do you ~?",
-          "pattern": "Do you + verb ...?",
-          "file": "LSB/lesson01.json",
+          "type": "PiS",
+          "title": "PiS 1",
+          "file": "LSB/lesson01-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsb-02-pis",
+          "lesson": 2,
+          "type": "PiS",
+          "title": "PiS 2",
+          "file": "LSB/lesson02-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsb-03-pis",
+          "lesson": 3,
+          "type": "PiS",
+          "title": "PiS 3",
+          "file": "LSB/lesson03-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsb-04-pis",
+          "lesson": 4,
+          "type": "PiS",
+          "title": "PiS 4",
+          "file": "LSB/lesson04-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsb-05-pis",
+          "lesson": 5,
+          "type": "PiS",
+          "title": "PiS 5",
+          "file": "LSB/lesson05-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsb-06-pis",
+          "lesson": 6,
+          "type": "PiS",
+          "title": "PiS 6",
+          "file": "LSB/lesson06-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsb-07-pis",
+          "lesson": 7,
+          "type": "PiS",
+          "title": "PiS 7",
+          "file": "LSB/lesson07-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsb-08-pis",
+          "lesson": 8,
+          "type": "PiS",
+          "title": "PiS 8",
+          "file": "LSB/lesson08-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsb-09-pis",
+          "lesson": 9,
+          "type": "PiS",
+          "title": "PiS 9",
+          "file": "LSB/lesson09-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsb-10-pis",
+          "lesson": 10,
+          "type": "PiS",
+          "title": "PiS 10",
+          "file": "LSB/lesson10-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsb-13-pis",
+          "lesson": 13,
+          "type": "PiS",
+          "title": "PiS 13",
+          "file": "LSB/lesson13-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsb-14-pis",
+          "lesson": 14,
+          "type": "PiS",
+          "title": "PiS 14",
+          "file": "LSB/lesson14-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsb-15-pis",
+          "lesson": 15,
+          "type": "PiS",
+          "title": "PiS 15",
+          "file": "LSB/lesson15-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsb-16-pis",
+          "lesson": 16,
+          "type": "PiS",
+          "title": "PiS 16",
+          "file": "LSB/lesson16-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsb-17-pis",
+          "lesson": 17,
+          "type": "PiS",
+          "title": "PiS 17",
+          "file": "LSB/lesson17-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsb-18-pis",
+          "lesson": 18,
+          "type": "PiS",
+          "title": "PiS 18",
+          "file": "LSB/lesson18-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsb-19-pis",
+          "lesson": 19,
+          "type": "PiS",
+          "title": "PiS 19",
+          "file": "LSB/lesson19-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsb-20-pis",
+          "lesson": 20,
+          "type": "PiS",
+          "title": "PiS 20",
+          "file": "LSB/lesson20-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsb-21-pis",
+          "lesson": 21,
+          "type": "PiS",
+          "title": "PiS 21",
+          "file": "LSB/lesson21-pis.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsb-22-pis",
+          "lesson": 22,
+          "type": "PiS",
+          "title": "PiS 22",
+          "file": "LSB/lesson22-pis.json",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "id": "LSC",
+      "label": "LSC",
+      "lessons": [
+        {
+          "id": "lsc-01-piw",
+          "lesson": 1,
+          "type": "PiW",
+          "title": "PiW 1",
+          "file": "LSC/lesson01-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsc-02-piw",
+          "lesson": 2,
+          "type": "PiW",
+          "title": "PiW 2",
+          "file": "LSC/lesson02-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsc-03-piw",
+          "lesson": 3,
+          "type": "PiW",
+          "title": "PiW 3",
+          "file": "LSC/lesson03-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsc-04-piw",
+          "lesson": 4,
+          "type": "PiW",
+          "title": "PiW 4",
+          "file": "LSC/lesson04-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsc-05-piw",
+          "lesson": 5,
+          "type": "PiW",
+          "title": "PiW 5",
+          "file": "LSC/lesson05-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsc-06-piw",
+          "lesson": 6,
+          "type": "PiW",
+          "title": "PiW 6",
+          "file": "LSC/lesson06-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsc-07-piw",
+          "lesson": 7,
+          "type": "PiW",
+          "title": "PiW 7",
+          "file": "LSC/lesson07-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsc-08-piw",
+          "lesson": 8,
+          "type": "PiW",
+          "title": "PiW 8",
+          "file": "LSC/lesson08-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsc-09-piw",
+          "lesson": 9,
+          "type": "PiW",
+          "title": "PiW 9",
+          "file": "LSC/lesson09-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsc-10-piw",
+          "lesson": 10,
+          "type": "PiW",
+          "title": "PiW 10",
+          "file": "LSC/lesson10-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsc-13-piw",
+          "lesson": 13,
+          "type": "PiW",
+          "title": "PiW 13",
+          "file": "LSC/lesson13-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsc-14-piw",
+          "lesson": 14,
+          "type": "PiW",
+          "title": "PiW 14",
+          "file": "LSC/lesson14-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsc-15-piw",
+          "lesson": 15,
+          "type": "PiW",
+          "title": "PiW 15",
+          "file": "LSC/lesson15-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsc-16-piw",
+          "lesson": 16,
+          "type": "PiW",
+          "title": "PiW 16",
+          "file": "LSC/lesson16-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsc-17-piw",
+          "lesson": 17,
+          "type": "PiW",
+          "title": "PiW 17",
+          "file": "LSC/lesson17-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsc-18-piw",
+          "lesson": 18,
+          "type": "PiW",
+          "title": "PiW 18",
+          "file": "LSC/lesson18-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsc-19-piw",
+          "lesson": 19,
+          "type": "PiW",
+          "title": "PiW 19",
+          "file": "LSC/lesson19-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsc-20-piw",
+          "lesson": 20,
+          "type": "PiW",
+          "title": "PiW 20",
+          "file": "LSC/lesson20-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsc-21-piw",
+          "lesson": 21,
+          "type": "PiW",
+          "title": "PiW 21",
+          "file": "LSC/lesson21-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsc-22-piw",
+          "lesson": 22,
+          "type": "PiW",
+          "title": "PiW 22",
+          "file": "LSC/lesson22-piw.json",
+          "availability": "available"
+        }
+      ]
+    },
+    {
+      "id": "LSD",
+      "label": "LSD",
+      "lessons": [
+        {
+          "id": "lsd-01-piw",
+          "lesson": 1,
+          "type": "PiW",
+          "title": "PiW 1",
+          "file": "LSD/lesson01-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsd-02-piw",
+          "lesson": 2,
+          "type": "PiW",
+          "title": "PiW 2",
+          "file": "LSD/lesson02-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsd-03-piw",
+          "lesson": 3,
+          "type": "PiW",
+          "title": "PiW 3",
+          "file": "LSD/lesson03-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsd-04-piw",
+          "lesson": 4,
+          "type": "PiW",
+          "title": "PiW 4",
+          "file": "LSD/lesson04-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsd-05-piw",
+          "lesson": 5,
+          "type": "PiW",
+          "title": "PiW 5",
+          "file": "LSD/lesson05-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsd-06-piw",
+          "lesson": 6,
+          "type": "PiW",
+          "title": "PiW 6",
+          "file": "LSD/lesson06-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsd-07-piw",
+          "lesson": 7,
+          "type": "PiW",
+          "title": "PiW 7",
+          "file": "LSD/lesson07-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsd-08-piw",
+          "lesson": 8,
+          "type": "PiW",
+          "title": "PiW 8",
+          "file": "LSD/lesson08-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsd-09-piw",
+          "lesson": 9,
+          "type": "PiW",
+          "title": "PiW 9",
+          "file": "LSD/lesson09-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsd-10-piw",
+          "lesson": 10,
+          "type": "PiW",
+          "title": "PiW 10",
+          "file": "LSD/lesson10-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsd-13-piw",
+          "lesson": 13,
+          "type": "PiW",
+          "title": "PiW 13",
+          "file": "LSD/lesson13-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsd-14-piw",
+          "lesson": 14,
+          "type": "PiW",
+          "title": "PiW 14",
+          "file": "LSD/lesson14-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsd-15-piw",
+          "lesson": 15,
+          "type": "PiW",
+          "title": "PiW 15",
+          "file": "LSD/lesson15-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsd-16-piw",
+          "lesson": 16,
+          "type": "PiW",
+          "title": "PiW 16",
+          "file": "LSD/lesson16-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsd-17-piw",
+          "lesson": 17,
+          "type": "PiW",
+          "title": "PiW 17",
+          "file": "LSD/lesson17-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsd-18-piw",
+          "lesson": 18,
+          "type": "PiW",
+          "title": "PiW 18",
+          "file": "LSD/lesson18-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsd-19-piw",
+          "lesson": 19,
+          "type": "PiW",
+          "title": "PiW 19",
+          "file": "LSD/lesson19-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsd-20-piw",
+          "lesson": 20,
+          "type": "PiW",
+          "title": "PiW 20",
+          "file": "LSD/lesson20-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsd-21-piw",
+          "lesson": 21,
+          "type": "PiW",
+          "title": "PiW 21",
+          "file": "LSD/lesson21-piw.json",
+          "availability": "available"
+        },
+        {
+          "id": "lsd-22-piw",
+          "lesson": 22,
+          "type": "PiW",
+          "title": "PiW 22",
+          "file": "LSD/lesson22-piw.json",
           "availability": "available"
         }
       ]

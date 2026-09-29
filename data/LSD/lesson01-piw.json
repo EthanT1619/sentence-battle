@@ -1,0 +1,41 @@
+{
+  "id": "lsd-01-piw",
+  "level": "LSD",
+  "lesson": 1,
+  "type": "PiW",
+  "title": "PiW 1",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "Mowgli is playing with the wolf cubs."
+    },
+    {
+      "id": "s02",
+      "sentence": "The animals are drinking at the water hole."
+    },
+    {
+      "id": "s03",
+      "sentence": "Mowgli is not running away from Shere Khan."
+    },
+    {
+      "id": "s04",
+      "sentence": "The wolves are not giving Mowgli to Shere Khan."
+    },
+    {
+      "id": "s05",
+      "sentence": "Shere Khan is being mean to the other animals."
+    },
+    {
+      "id": "s06",
+      "sentence": "Mother Wolf is talking to Shere Khan while Mowgli is playing."
+    },
+    {
+      "id": "s07",
+      "sentence": "Mowgli is standing next to Bagheera as he looks at Shere Khan."
+    },
+    {
+      "id": "s08",
+      "sentence": "Mowgli is telling me how much he likes living with the animals."
+    }
+  ]
+}

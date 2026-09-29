@@ -1,0 +1,41 @@
+{
+  "id": "lsc-18-piw",
+  "level": "LSC",
+  "lesson": 18,
+  "type": "PiW",
+  "title": "PiW 18",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "I think that aliens are friendlier than humans."
+    },
+    {
+      "id": "s02",
+      "sentence": "I believe that aliens are less intelligent than humans."
+    },
+    {
+      "id": "s03",
+      "sentence": "Aliens and humans have differences in body size."
+    },
+    {
+      "id": "s04",
+      "sentence": "Aliens are probably stronger than humans."
+    },
+    {
+      "id": "s05",
+      "sentence": "Aliens could be more intelligent than humans."
+    },
+    {
+      "id": "s06",
+      "sentence": "In conclusion, I believe aliens and humans have many differences."
+    },
+    {
+      "id": "s07",
+      "sentence": "To sum up, I think aliens and humans are very similar."
+    },
+    {
+      "id": "s08",
+      "sentence": "All things considered, I think aliens are pretty similar to humans."
+    }
+  ]
+}

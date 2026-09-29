@@ -1,0 +1,41 @@
+{
+  "id": "lsb-17-pis",
+  "level": "LSB",
+  "lesson": 17,
+  "type": "PiS",
+  "title": "PiS 17",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "It takes them about an hour to walk."
+    },
+    {
+      "id": "s02",
+      "sentence": "\"Sleeping by the fire, as usual,\" I say."
+    },
+    {
+      "id": "s03",
+      "sentence": "Dandy and I have lived together for close to 20 years."
+    },
+    {
+      "id": "s04",
+      "sentence": "I'm pretty sure he doesn't know what we're saying."
+    },
+    {
+      "id": "s05",
+      "sentence": "She had a special gift for communicating with dogs."
+    },
+    {
+      "id": "s06",
+      "sentence": "I've never heard of the Dog Star Planet."
+    },
+    {
+      "id": "s07",
+      "sentence": "People like us are the only ones who know about the Dog Star Planet."
+    },
+    {
+      "id": "s08",
+      "sentence": "The crystal is just the right size."
+    }
+  ]
+}

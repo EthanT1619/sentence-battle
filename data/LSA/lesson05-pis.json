@@ -1,0 +1,33 @@
+{
+  "id": "lsa-05-pis",
+  "level": "LSA",
+  "lesson": 5,
+  "type": "PiS",
+  "title": "PiS 5",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "It was early in the morning."
+    },
+    {
+      "id": "s02",
+      "sentence": "She was waiting for her parents."
+    },
+    {
+      "id": "s03",
+      "sentence": "She expected her parents to know it."
+    },
+    {
+      "id": "s04",
+      "sentence": "She was getting very angry."
+    },
+    {
+      "id": "s05",
+      "sentence": "She could not stay home alone."
+    },
+    {
+      "id": "s06",
+      "sentence": "There is nothing to worry about."
+    }
+  ]
+}

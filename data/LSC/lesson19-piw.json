@@ -1,0 +1,41 @@
+{
+  "id": "lsc-19-piw",
+  "level": "LSC",
+  "lesson": 19,
+  "type": "PiW",
+  "title": "PiW 19",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "Reading is an interesting indoor hobby."
+    },
+    {
+      "id": "s02",
+      "sentence": "I think playing the piano is fun."
+    },
+    {
+      "id": "s03",
+      "sentence": "I like playing soccer with my friends."
+    },
+    {
+      "id": "s04",
+      "sentence": "I saw a TV show about fishing."
+    },
+    {
+      "id": "s05",
+      "sentence": "I like to play badminton with my friends."
+    },
+    {
+      "id": "s06",
+      "sentence": "They want to go swimming this weekend."
+    },
+    {
+      "id": "s07",
+      "sentence": "I promise to help you with your homework."
+    },
+    {
+      "id": "s08",
+      "sentence": "I hope to meet my friends this weekend."
+    }
+  ]
+}

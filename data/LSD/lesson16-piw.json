@@ -1,0 +1,41 @@
+{
+  "id": "lsd-16-piw",
+  "level": "LSD",
+  "lesson": 16,
+  "type": "PiW",
+  "title": "PiW 16",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "Could you imagine what it would be like to be a king or queen?"
+    },
+    {
+      "id": "s02",
+      "sentence": "I would enjoy having my own castle."
+    },
+    {
+      "id": "s03",
+      "sentence": "My castle would have an indoor swimming pool."
+    },
+    {
+      "id": "s04",
+      "sentence": "I could go swimming anytime I want."
+    },
+    {
+      "id": "s05",
+      "sentence": "I think I would enjoy traveling all over the world."
+    },
+    {
+      "id": "s06",
+      "sentence": "I love skiing, so I might go skiing in Switzerland."
+    },
+    {
+      "id": "s07",
+      "sentence": "I could use my money to help endangered animals."
+    },
+    {
+      "id": "s08",
+      "sentence": "Don't you think it would be awesome to be a king or queen?"
+    }
+  ]
+}

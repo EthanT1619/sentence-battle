@@ -1,0 +1,41 @@
+{
+  "id": "lsd-18-piw",
+  "level": "LSD",
+  "lesson": 18,
+  "type": "PiW",
+  "title": "PiW 18",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "Television is a very important technology in the world today."
+    },
+    {
+      "id": "s02",
+      "sentence": "Video games have a lot of good effects on people's lives."
+    },
+    {
+      "id": "s03",
+      "sentence": "The internet is good for communicating with people all over the world."
+    },
+    {
+      "id": "s04",
+      "sentence": "On the other hand, there are bad effects from television as well."
+    },
+    {
+      "id": "s05",
+      "sentence": "Because of these bad effects, I think robots are bad overall."
+    },
+    {
+      "id": "s06",
+      "sentence": "Despite the bad effects, I think television is good overall."
+    },
+    {
+      "id": "s07",
+      "sentence": "As you can see, smartphones are a very important technology."
+    },
+    {
+      "id": "s08",
+      "sentence": "I think you'll agree that it has a good effect on people overall."
+    }
+  ]
+}

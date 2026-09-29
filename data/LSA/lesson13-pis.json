@@ -1,0 +1,33 @@
+{
+  "id": "lsa-13-pis",
+  "level": "LSA",
+  "lesson": 13,
+  "type": "PiS",
+  "title": "PiS 13",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "I wish I could fly."
+    },
+    {
+      "id": "s02",
+      "sentence": "She thought about the beautiful gardens."
+    },
+    {
+      "id": "s03",
+      "sentence": "She ran as fast as she could."
+    },
+    {
+      "id": "s04",
+      "sentence": "She was no longer afraid."
+    },
+    {
+      "id": "s05",
+      "sentence": "She had flown all the way to school."
+    },
+    {
+      "id": "s06",
+      "sentence": "She stopped flapping her arms."
+    }
+  ]
+}

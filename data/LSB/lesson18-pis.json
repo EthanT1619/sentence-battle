@@ -1,0 +1,41 @@
+{
+  "id": "lsb-18-pis",
+  "level": "LSB",
+  "lesson": 18,
+  "type": "PiS",
+  "title": "PiS 18",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "He can't resist the smell of the cricket butter."
+    },
+    {
+      "id": "s02",
+      "sentence": "It is easy to get him to do all the vowels."
+    },
+    {
+      "id": "s03",
+      "sentence": "We're ready to move on to full words."
+    },
+    {
+      "id": "s04",
+      "sentence": "He doesn't let me watch my favorite TV programs."
+    },
+    {
+      "id": "s05",
+      "sentence": "A talking dog is different from an ordinary dog."
+    },
+    {
+      "id": "s06",
+      "sentence": "Is there some way I can get Homer to stop talking?"
+    },
+    {
+      "id": "s07",
+      "sentence": "As it gets closer, we see a race car."
+    },
+    {
+      "id": "s08",
+      "sentence": "Somebody here is looking for a taxi to Sirius?"
+    }
+  ]
+}

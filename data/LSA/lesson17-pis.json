@@ -1,0 +1,33 @@
+{
+  "id": "lsa-17-pis",
+  "level": "LSA",
+  "lesson": 17,
+  "type": "PiS",
+  "title": "PiS 17",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "It's the camera I wanted."
+    },
+    {
+      "id": "s02",
+      "sentence": "He continued to scroll through all the photos."
+    },
+    {
+      "id": "s03",
+      "sentence": "Jake spent the whole soccer game trying to make fun of Matt."
+    },
+    {
+      "id": "s04",
+      "sentence": "Jake asked the players to stand together in a group."
+    },
+    {
+      "id": "s05",
+      "sentence": "She'd love to see some of the pictures."
+    },
+    {
+      "id": "s06",
+      "sentence": "How could I forget your birthday?"
+    }
+  ]
+}

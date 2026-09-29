@@ -1,0 +1,41 @@
+{
+  "id": "lsc-09-piw",
+  "level": "LSC",
+  "lesson": 9,
+  "type": "PiW",
+  "title": "PiW 9",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "I saw a handsome, young, Korean pirate."
+    },
+    {
+      "id": "s02",
+      "sentence": "He was a funny, old pirate with a long, black beard."
+    },
+    {
+      "id": "s03",
+      "sentence": "He was wearing long, black pants and a white, cotton shirt."
+    },
+    {
+      "id": "s04",
+      "sentence": "He had a big, brown, wooden ship."
+    },
+    {
+      "id": "s05",
+      "sentence": "The pirate's pet was a small, cute, green parrot."
+    },
+    {
+      "id": "s06",
+      "sentence": "Overall, he was a weird and smelly pirate."
+    },
+    {
+      "id": "s07",
+      "sentence": "I would like to meet an interesting British pirate."
+    },
+    {
+      "id": "s08",
+      "sentence": "I don't want to meet a scary, mean, old pirate."
+    }
+  ]
+}

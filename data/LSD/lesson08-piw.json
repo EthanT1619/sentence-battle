@@ -1,0 +1,41 @@
+{
+  "id": "lsd-08-piw",
+  "level": "LSD",
+  "lesson": 8,
+  "type": "PiW",
+  "title": "PiW 8",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "What would you wish for if you had a magic lamp?"
+    },
+    {
+      "id": "s02",
+      "sentence": "If I found a magic lamp, I would wish for a new pet."
+    },
+    {
+      "id": "s03",
+      "sentence": "If I had new markers, I could draw beautiful pictures with every color."
+    },
+    {
+      "id": "s04",
+      "sentence": "It would be fantastic if I had an adorable little rabbit."
+    },
+    {
+      "id": "s05",
+      "sentence": "Best of all, I would wish for a time machine."
+    },
+    {
+      "id": "s06",
+      "sentence": "I could go back in time and get piano lessons from Beethoven."
+    },
+    {
+      "id": "s07",
+      "sentence": "These are the wishes I would make if I found a magic lamp."
+    },
+    {
+      "id": "s08",
+      "sentence": "Have you ever thought about what you would wish for?"
+    }
+  ]
+}

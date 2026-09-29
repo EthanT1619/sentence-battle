@@ -1,0 +1,41 @@
+{
+  "id": "lsb-21-pis",
+  "level": "LSB",
+  "lesson": 21,
+  "type": "PiS",
+  "title": "PiS 21",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "He wasn't supposed to play in the basement."
+    },
+    {
+      "id": "s02",
+      "sentence": "He worked on developing new formulas."
+    },
+    {
+      "id": "s03",
+      "sentence": "He was trying so hard not to spill."
+    },
+    {
+      "id": "s04",
+      "sentence": "Mom dropped a big stack of pancakes onto a plate."
+    },
+    {
+      "id": "s05",
+      "sentence": "It's getting totally out of control."
+    },
+    {
+      "id": "s06",
+      "sentence": "He had never seen ants as big as golf balls."
+    },
+    {
+      "id": "s07",
+      "sentence": "You promised you wouldn't experiment with our yard."
+    },
+    {
+      "id": "s08",
+      "sentence": "She was not pleased with her husband."
+    }
+  ]
+}

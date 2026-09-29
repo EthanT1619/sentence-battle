@@ -1,0 +1,41 @@
+{
+  "id": "lsc-21-piw",
+  "level": "LSC",
+  "lesson": 21,
+  "type": "PiW",
+  "title": "PiW 21",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "I would feel so happy to have a magic wand."
+    },
+    {
+      "id": "s02",
+      "sentence": "I would always use a magic wand when I take the test."
+    },
+    {
+      "id": "s03",
+      "sentence": "I sometimes forget to write my name on my test paper."
+    },
+    {
+      "id": "s04",
+      "sentence": "I would never do poorly on a test."
+    },
+    {
+      "id": "s05",
+      "sentence": "I would use a magic wand to easily clean my room."
+    },
+    {
+      "id": "s06",
+      "sentence": "It wasn't very hard to find the exit."
+    },
+    {
+      "id": "s07",
+      "sentence": "I think riding roller coasters is really fun."
+    },
+    {
+      "id": "s08",
+      "sentence": "Interestingly, the best part would be helping my friends."
+    }
+  ]
+}

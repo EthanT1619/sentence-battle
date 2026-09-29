@@ -1,0 +1,41 @@
+{
+  "id": "lsc-08-piw",
+  "level": "LSC",
+  "lesson": 8,
+  "type": "PiW",
+  "title": "PiW 8",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "Ice cream is the one food that I can't live without."
+    },
+    {
+      "id": "s02",
+      "sentence": "Hamburgers are great because I like meat."
+    },
+    {
+      "id": "s03",
+      "sentence": "The great thing about bananas is how easy they are to eat."
+    },
+    {
+      "id": "s04",
+      "sentence": "Sandwiches are convenient to buy."
+    },
+    {
+      "id": "s05",
+      "sentence": "They are also easy to cook."
+    },
+    {
+      "id": "s06",
+      "sentence": "I like to eat them for lunch."
+    },
+    {
+      "id": "s07",
+      "sentence": "Spaghetti is the best food I know."
+    },
+    {
+      "id": "s08",
+      "sentence": "That's why pizza is the one food I can't live without."
+    }
+  ]
+}

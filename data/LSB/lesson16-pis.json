@@ -1,0 +1,41 @@
+{
+  "id": "lsb-16-pis",
+  "level": "LSB",
+  "lesson": 16,
+  "type": "PiS",
+  "title": "PiS 16",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "He went straight to the grocery store."
+    },
+    {
+      "id": "s02",
+      "sentence": "The wagon would be perfect to help him."
+    },
+    {
+      "id": "s03",
+      "sentence": "It would take longer with the wagon."
+    },
+    {
+      "id": "s04",
+      "sentence": "Zerby was starting to become annoying."
+    },
+    {
+      "id": "s05",
+      "sentence": "He didn't even say thank you."
+    },
+    {
+      "id": "s06",
+      "sentence": "He said to himself in shock."
+    },
+    {
+      "id": "s07",
+      "sentence": "I would really like to put these bananas into the spaceship."
+    },
+    {
+      "id": "s08",
+      "sentence": "He led the way to the spaceship."
+    }
+  ]
+}

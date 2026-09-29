@@ -1,0 +1,41 @@
+{
+  "id": "lsd-04-piw",
+  "level": "LSD",
+  "lesson": 4,
+  "type": "PiW",
+  "title": "PiW 4",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "You can donate money to help orphans."
+    },
+    {
+      "id": "s02",
+      "sentence": "This can help them buy things that they need."
+    },
+    {
+      "id": "s03",
+      "sentence": "This is a good way to help because they can do better in school."
+    },
+    {
+      "id": "s04",
+      "sentence": "This is helpful because you can get your whole school to help orphans."
+    },
+    {
+      "id": "s05",
+      "sentence": "Talk to your parents about how you can help today."
+    },
+    {
+      "id": "s06",
+      "sentence": "Learn more about how you can help orphans today."
+    },
+    {
+      "id": "s07",
+      "sentence": "Find out more information by searching the internet."
+    },
+    {
+      "id": "s08",
+      "sentence": "Ask your teacher for more information on how you can help."
+    }
+  ]
+}

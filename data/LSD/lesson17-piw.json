@@ -1,0 +1,41 @@
+{
+  "id": "lsd-17-piw",
+  "level": "LSD",
+  "lesson": 17,
+  "type": "PiW",
+  "title": "PiW 17",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "It was a dark and spooky night in the laboratory."
+    },
+    {
+      "id": "s02",
+      "sentence": "Young and ambitious Dr.Frankenstein was excited to create a new man."
+    },
+    {
+      "id": "s03",
+      "sentence": "Dr.Frankenstein felt extremely terrified by the sight of the monster."
+    },
+    {
+      "id": "s04",
+      "sentence": "Dr.Frankenstein felt a little shocked by the appearance of the monster."
+    },
+    {
+      "id": "s05",
+      "sentence": "Dr.Frankenstein felt so amazed that his monster had come to life."
+    },
+    {
+      "id": "s06",
+      "sentence": "Dr.Frankenstein was aware that the monster was really big and a little scary."
+    },
+    {
+      "id": "s07",
+      "sentence": "The really huge monster was bigger than any human."
+    },
+    {
+      "id": "s08",
+      "sentence": "Dr.Frankenstein was so surprised when the monster suddenly looked at him."
+    }
+  ]
+}

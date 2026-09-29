@@ -1,0 +1,41 @@
+{
+  "id": "lsd-19-piw",
+  "level": "LSD",
+  "lesson": 19,
+  "type": "PiW",
+  "title": "PiW 19",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "A witch quietly created a magic mirror in a cave."
+    },
+    {
+      "id": "s02",
+      "sentence": "The magic mirror constantly tricked anyone who played with it."
+    },
+    {
+      "id": "s03",
+      "sentence": "When someone played with the magic mirror, it would change how things looked."
+    },
+    {
+      "id": "s04",
+      "sentence": "The magic mirror brought sadness to people all over the village."
+    },
+    {
+      "id": "s05",
+      "sentence": "The witch laughed loudly when she saw people using the magic mirror."
+    },
+    {
+      "id": "s06",
+      "sentence": "People were extremely angry that the witch created the magic mirror."
+    },
+    {
+      "id": "s07",
+      "sentence": "Finally, someone broke the spell by crying pure tears."
+    },
+    {
+      "id": "s08",
+      "sentence": "People were unbelievably happy when the spell was broken."
+    }
+  ]
+}

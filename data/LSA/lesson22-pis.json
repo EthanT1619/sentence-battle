@@ -1,0 +1,33 @@
+{
+  "id": "lsa-22-pis",
+  "level": "LSA",
+  "lesson": 22,
+  "type": "PiS",
+  "title": "PiS 22",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "I headed for the bathroom."
+    },
+    {
+      "id": "s02",
+      "sentence": "Susan tried to cheer me up."
+    },
+    {
+      "id": "s03",
+      "sentence": "I was in the middle of swinging."
+    },
+    {
+      "id": "s04",
+      "sentence": "I was covered in mud."
+    },
+    {
+      "id": "s05",
+      "sentence": "I felt like I was a star."
+    },
+    {
+      "id": "s06",
+      "sentence": "Everyone was getting ready for the award ceremony."
+    }
+  ]
+}

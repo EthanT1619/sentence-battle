@@ -1,0 +1,41 @@
+{
+  "id": "lsb-14-pis",
+  "level": "LSB",
+  "lesson": 14,
+  "type": "PiS",
+  "title": "PiS 14",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "It took me a few days to get used to being tall."
+    },
+    {
+      "id": "s02",
+      "sentence": "It was determined to build a nest in my hair."
+    },
+    {
+      "id": "s03",
+      "sentence": "I kept bumping my head on the ceiling."
+    },
+    {
+      "id": "s04",
+      "sentence": "Is there any way to reverse the magic?"
+    },
+    {
+      "id": "s05",
+      "sentence": "I rather like being a normal size again."
+    },
+    {
+      "id": "s06",
+      "sentence": "I ate nothing but lima beans."
+    },
+    {
+      "id": "s07",
+      "sentence": "I'll be able to get to one of your games."
+    },
+    {
+      "id": "s08",
+      "sentence": "I spent most of the time on the bench."
+    }
+  ]
+}

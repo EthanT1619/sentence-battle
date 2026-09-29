@@ -1,0 +1,33 @@
+{
+  "id": "lsa-04-pis",
+  "level": "LSA",
+  "lesson": 4,
+  "type": "PiS",
+  "title": "PiS 4",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "Ricky is lying on the ground."
+    },
+    {
+      "id": "s02",
+      "sentence": "I start drawing Champ."
+    },
+    {
+      "id": "s03",
+      "sentence": "Super Hamster is almost over."
+    },
+    {
+      "id": "s04",
+      "sentence": "He is the cutest baby in the entire city."
+    },
+    {
+      "id": "s05",
+      "sentence": "I sit down to watch TV again."
+    },
+    {
+      "id": "s06",
+      "sentence": "She makes me very proud."
+    }
+  ]
+}

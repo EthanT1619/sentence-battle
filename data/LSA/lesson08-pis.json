@@ -1,0 +1,33 @@
+{
+  "id": "lsa-08-pis",
+  "level": "LSA",
+  "lesson": 8,
+  "type": "PiS",
+  "title": "PiS 8",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "They looked back at Jimmy with curiosity."
+    },
+    {
+      "id": "s02",
+      "sentence": "You've locked the storm in your head."
+    },
+    {
+      "id": "s03",
+      "sentence": "He suddenly looked very serious."
+    },
+    {
+      "id": "s04",
+      "sentence": "You had better get started."
+    },
+    {
+      "id": "s05",
+      "sentence": "He had to go down to the ground."
+    },
+    {
+      "id": "s06",
+      "sentence": "It was fun talking to other people."
+    }
+  ]
+}

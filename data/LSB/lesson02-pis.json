@@ -1,0 +1,41 @@
+{
+  "id": "lsb-02-pis",
+  "level": "LSB",
+  "lesson": 2,
+  "type": "PiS",
+  "title": "PiS 2",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "He read about dogs that help people."
+    },
+    {
+      "id": "s02",
+      "sentence": "He remembered what his dad had said."
+    },
+    {
+      "id": "s03",
+      "sentence": "I just write about why I'm having trouble writing."
+    },
+    {
+      "id": "s04",
+      "sentence": "She feels like a super special cat to me."
+    },
+    {
+      "id": "s05",
+      "sentence": "It was much easier to just be a regular kid."
+    },
+    {
+      "id": "s06",
+      "sentence": "I wish you really had a super cat."
+    },
+    {
+      "id": "s07",
+      "sentence": "I would be happy to show you how to make super cool pictures."
+    },
+    {
+      "id": "s08",
+      "sentence": "His family was still the same."
+    }
+  ]
+}

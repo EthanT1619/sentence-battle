@@ -1,0 +1,41 @@
+{
+  "id": "lsb-06-pis",
+  "level": "LSB",
+  "lesson": 6,
+  "type": "PiS",
+  "title": "PiS 6",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "Sphinxes were said to protect the pyramid."
+    },
+    {
+      "id": "s02",
+      "sentence": "They covered their ears with their hands."
+    },
+    {
+      "id": "s03",
+      "sentence": "A papyrus scroll was sticking out from it."
+    },
+    {
+      "id": "s04",
+      "sentence": "You must promise to do one more favor for me."
+    },
+    {
+      "id": "s05",
+      "sentence": "My funeral will be completed."
+    },
+    {
+      "id": "s06",
+      "sentence": "Be sure to push them at the same time."
+    },
+    {
+      "id": "s07",
+      "sentence": "The ground began to break down."
+    },
+    {
+      "id": "s08",
+      "sentence": "I wasn't going to say that."
+    }
+  ]
+}

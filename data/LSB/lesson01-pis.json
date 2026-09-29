@@ -1,0 +1,41 @@
+{
+  "id": "lsb-01-pis",
+  "level": "LSB",
+  "lesson": 1,
+  "type": "PiS",
+  "title": "PiS 1",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "He didn't like playing alone at recess."
+    },
+    {
+      "id": "s02",
+      "sentence": "Thank you for sharing all this."
+    },
+    {
+      "id": "s03",
+      "sentence": "He had an old cat named Mimi."
+    },
+    {
+      "id": "s04",
+      "sentence": "You can be a superhero cat."
+    },
+    {
+      "id": "s05",
+      "sentence": "He was getting worried."
+    },
+    {
+      "id": "s06",
+      "sentence": "He was so stunned by the question."
+    },
+    {
+      "id": "s07",
+      "sentence": "He is coming over to my house on Tuesday."
+    },
+    {
+      "id": "s08",
+      "sentence": "He really wanted to go to Max's house one day."
+    }
+  ]
+}

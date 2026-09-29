@@ -1,0 +1,41 @@
+{
+  "id": "lsd-05-piw",
+  "level": "LSD",
+  "lesson": 5,
+  "type": "PiW",
+  "title": "PiW 5",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "The Widow Douglas is a kind and caring person."
+    },
+    {
+      "id": "s02",
+      "sentence": "Huck's pa is neither friendly nor kind."
+    },
+    {
+      "id": "s03",
+      "sentence": "Jim wants freedom, so he is trying to escape to the North."
+    },
+    {
+      "id": "s04",
+      "sentence": "The Widow Douglas tries to help Huck because she is a nice person."
+    },
+    {
+      "id": "s05",
+      "sentence": "Huck doesn't want to live with his pa, but his pa kidnaps him."
+    },
+    {
+      "id": "s06",
+      "sentence": "The Widow Douglas gives Huck an education even though he doesn't like school."
+    },
+    {
+      "id": "s07",
+      "sentence": "Huck's pa will be gone by the end of the story."
+    },
+    {
+      "id": "s08",
+      "sentence": "The Widow Douglas is important because she changes Huck's life."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "lsd-15-piw",
+  "level": "LSD",
+  "lesson": 15,
+  "type": "PiW",
+  "title": "PiW 15",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "King Uther would proclaim his son as heir to the throne."
+    },
+    {
+      "id": "s02",
+      "sentence": "Merlin could hear voices of dissent in the crowd."
+    },
+    {
+      "id": "s03",
+      "sentence": "The nobles would not accept the new heir."
+    },
+    {
+      "id": "s04",
+      "sentence": "Merlin could not see who was angry."
+    },
+    {
+      "id": "s05",
+      "sentence": "King Uther might have many rivals."
+    },
+    {
+      "id": "s06",
+      "sentence": "The baby boy might not be safe without Merlin's protection."
+    },
+    {
+      "id": "s07",
+      "sentence": "Young Arthur might not know about his fate."
+    },
+    {
+      "id": "s08",
+      "sentence": "The person who could pull the sword from the stone would be king."
+    }
+  ]
+}

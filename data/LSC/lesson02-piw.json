@@ -1,0 +1,41 @@
+{
+  "id": "lsc-02-piw",
+  "level": "LSC",
+  "lesson": 2,
+  "type": "PiW",
+  "title": "PiW 2",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "I want to tell you what I would do if I met the Sand Fairy."
+    },
+    {
+      "id": "s02",
+      "sentence": "I would wish for magic soccer shoes that always score a goal."
+    },
+    {
+      "id": "s03",
+      "sentence": "I would love to have a pet dinosaur."
+    },
+    {
+      "id": "s04",
+      "sentence": "I would ask for something amazing like a flying car."
+    },
+    {
+      "id": "s05",
+      "sentence": "What would you like to wish for?"
+    },
+    {
+      "id": "s06",
+      "sentence": "With magic soccer shoes, I might score 100 goals in one game."
+    },
+    {
+      "id": "s07",
+      "sentence": "I would take my dinosaur to the park."
+    },
+    {
+      "id": "s08",
+      "sentence": "I would be able to fly anywhere in the world."
+    }
+  ]
+}

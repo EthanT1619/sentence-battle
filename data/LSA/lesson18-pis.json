@@ -1,0 +1,33 @@
+{
+  "id": "lsa-18-pis",
+  "level": "LSA",
+  "lesson": 18,
+  "type": "PiS",
+  "title": "PiS 18",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "As soon as Jake got home, he rushed up to his room."
+    },
+    {
+      "id": "s02",
+      "sentence": "Would you like me to give her another haircut?"
+    },
+    {
+      "id": "s03",
+      "sentence": "Jake looked for Matt and Sam."
+    },
+    {
+      "id": "s04",
+      "sentence": "I wanted to ask you about the shoes."
+    },
+    {
+      "id": "s05",
+      "sentence": "I'm not going to be rude again."
+    },
+    {
+      "id": "s06",
+      "sentence": "He took the camera from Jake's desk."
+    }
+  ]
+}

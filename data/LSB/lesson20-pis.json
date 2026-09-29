@@ -1,0 +1,41 @@
+{
+  "id": "lsb-20-pis",
+  "level": "LSB",
+  "lesson": 20,
+  "type": "PiS",
+  "title": "PiS 20",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "She could have gotten some last minute tips from him."
+    },
+    {
+      "id": "s02",
+      "sentence": "Jenny was feeling much better about her skills."
+    },
+    {
+      "id": "s03",
+      "sentence": "This was her chance to score."
+    },
+    {
+      "id": "s04",
+      "sentence": "She was so focused on what was happening with Lisa."
+    },
+    {
+      "id": "s05",
+      "sentence": "It's up to you to tell me exactly what happened."
+    },
+    {
+      "id": "s06",
+      "sentence": "You're done playing in this game."
+    },
+    {
+      "id": "s07",
+      "sentence": "We're looking forward to playing against your team."
+    },
+    {
+      "id": "s08",
+      "sentence": "Jenny knew what it felt like to be a real winner."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "lsb-03-pis",
+  "level": "LSB",
+  "lesson": 3,
+  "type": "PiS",
+  "title": "PiS 3",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "He was the most popular boy in grade five."
+    },
+    {
+      "id": "s02",
+      "sentence": "He did things just to make people like him."
+    },
+    {
+      "id": "s03",
+      "sentence": "He was riding his bike in the pit."
+    },
+    {
+      "id": "s04",
+      "sentence": "Children weren't allowed to ride the Big Hill."
+    },
+    {
+      "id": "s05",
+      "sentence": "He ended up in the hospital with broken bones."
+    },
+    {
+      "id": "s06",
+      "sentence": "He was filled with envy."
+    },
+    {
+      "id": "s07",
+      "sentence": "He was very proud of what he could do."
+    },
+    {
+      "id": "s08",
+      "sentence": "Everyone started to walk back into the school."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "lsc-16-piw",
+  "level": "LSC",
+  "lesson": 16,
+  "type": "PiW",
+  "title": "PiW 16",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "I have been to Monster School."
+    },
+    {
+      "id": "s02",
+      "sentence": "I have seen many incredible things."
+    },
+    {
+      "id": "s03",
+      "sentence": "I have met green children."
+    },
+    {
+      "id": "s04",
+      "sentence": "I have eaten monster pizza."
+    },
+    {
+      "id": "s05",
+      "sentence": "The houses are made out of green grass."
+    },
+    {
+      "id": "s06",
+      "sentence": "The people of All-Green Island look like people with green skin."
+    },
+    {
+      "id": "s07",
+      "sentence": "Monster pizza has weird toppings, such as spiders."
+    },
+    {
+      "id": "s08",
+      "sentence": "As you can see, I have seen many strange things at Monster School."
+    }
+  ]
+}

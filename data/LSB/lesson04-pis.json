@@ -1,0 +1,41 @@
+{
+  "id": "lsb-04-pis",
+  "level": "LSB",
+  "lesson": 4,
+  "type": "PiS",
+  "title": "PiS 4",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "He made sure he had his shin pads."
+    },
+    {
+      "id": "s02",
+      "sentence": "He was satisfied with his bike."
+    },
+    {
+      "id": "s03",
+      "sentence": "His leg felt as if it was twisted around his body."
+    },
+    {
+      "id": "s04",
+      "sentence": "What he had done was foolish."
+    },
+    {
+      "id": "s05",
+      "sentence": "He felt proud and sad at the same time."
+    },
+    {
+      "id": "s06",
+      "sentence": "They will probably all call me chicken forever."
+    },
+    {
+      "id": "s07",
+      "sentence": "I am very good at BMX riding."
+    },
+    {
+      "id": "s08",
+      "sentence": "He stopped as soon as he saw you falling."
+    }
+  ]
+}

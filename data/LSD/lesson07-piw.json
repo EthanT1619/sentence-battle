@@ -1,0 +1,41 @@
+{
+  "id": "lsd-07-piw",
+  "level": "LSD",
+  "lesson": 7,
+  "type": "PiW",
+  "title": "PiW 7",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "If you find a magic lamp, you can wish for whatever you want."
+    },
+    {
+      "id": "s02",
+      "sentence": "Sir Prize will grant your wishes if you are his master."
+    },
+    {
+      "id": "s03",
+      "sentence": "If Parvaneh didn't work, Aladdin would not have food to eat."
+    },
+    {
+      "id": "s04",
+      "sentence": "Jabali would be happy if he stole the lamp for Aladdin."
+    },
+    {
+      "id": "s05",
+      "sentence": "If Jabali had the magic lamp, he would run away with it."
+    },
+    {
+      "id": "s06",
+      "sentence": "If Aladdin knew about Jabali's plan, he would not go to the mountain."
+    },
+    {
+      "id": "s07",
+      "sentence": "Jabali wouldn't need to work ever again if he had the magic lamp."
+    },
+    {
+      "id": "s08",
+      "sentence": "Parvaneh can have a happy ending if she can retire from work forever."
+    }
+  ]
+}

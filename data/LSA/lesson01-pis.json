@@ -1,0 +1,33 @@
+{
+  "id": "lsa-01-pis",
+  "level": "LSA",
+  "lesson": 1,
+  "type": "PiS",
+  "title": "PiS 1",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "I'm always polite when I speak to adults."
+    },
+    {
+      "id": "s02",
+      "sentence": "We have to be patient with Mr.Cunningham."
+    },
+    {
+      "id": "s03",
+      "sentence": "It doesn't seem fair."
+    },
+    {
+      "id": "s04",
+      "sentence": "She used to stay outside for hours."
+    },
+    {
+      "id": "s05",
+      "sentence": "I decided to test her."
+    },
+    {
+      "id": "s06",
+      "sentence": "It must be true."
+    }
+  ]
+}

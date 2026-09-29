@@ -1,0 +1,41 @@
+{
+  "id": "lsb-08-pis",
+  "level": "LSB",
+  "lesson": 8,
+  "type": "PiS",
+  "title": "PiS 8",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "It looked like she was trying to fly."
+    },
+    {
+      "id": "s02",
+      "sentence": "Her parties were always more exciting than all the other girls' parties."
+    },
+    {
+      "id": "s03",
+      "sentence": "You've been rehearsing for three weeks."
+    },
+    {
+      "id": "s04",
+      "sentence": "You can come if you want to."
+    },
+    {
+      "id": "s05",
+      "sentence": "You won't be able to go."
+    },
+    {
+      "id": "s06",
+      "sentence": "She forgot about Ashley."
+    },
+    {
+      "id": "s07",
+      "sentence": "Everyone in the crowd stood up at once."
+    },
+    {
+      "id": "s08",
+      "sentence": "I was planning to go to theater school."
+    }
+  ]
+}

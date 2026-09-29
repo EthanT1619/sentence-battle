@@ -1,0 +1,33 @@
+{
+  "id": "lsa-06-pis",
+  "level": "LSA",
+  "lesson": 6,
+  "type": "PiS",
+  "title": "PiS 6",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "It was time to leave for Michael's soccer match."
+    },
+    {
+      "id": "s02",
+      "sentence": "Emma felt miserable and wet."
+    },
+    {
+      "id": "s03",
+      "sentence": "This was supposed to be a fun day."
+    },
+    {
+      "id": "s04",
+      "sentence": "Nobody remembered my birthday."
+    },
+    {
+      "id": "s05",
+      "sentence": "What was wrong with you yesterday?"
+    },
+    {
+      "id": "s06",
+      "sentence": "Emma was full of excitement."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "lsd-22-piw",
+  "level": "LSD",
+  "lesson": 22,
+  "type": "PiW",
+  "title": "PiW 22",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "I want to share some interesting facts about Diplodocus."
+    },
+    {
+      "id": "s02",
+      "sentence": "According to the online encyclopedia, Triceratops weighed nine tons."
+    },
+    {
+      "id": "s03",
+      "sentence": "Iguanodon was discovered by Mary Ann Mantell."
+    },
+    {
+      "id": "s04",
+      "sentence": "Scientists say that Tyrannosaurus used its sharp teeth to attack its prey."
+    },
+    {
+      "id": "s05",
+      "sentence": "Scientists have found that Velociraptor had feathers."
+    },
+    {
+      "id": "s06",
+      "sentence": "Diplodocus could get up to 30 meters long."
+    },
+    {
+      "id": "s07",
+      "sentence": "Diplodocus was longer than two city buses."
+    },
+    {
+      "id": "s08",
+      "sentence": "I hope you learned some interesting facts about this amazing dinosaur."
+    }
+  ]
+}

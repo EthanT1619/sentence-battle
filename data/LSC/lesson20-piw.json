@@ -1,0 +1,41 @@
+{
+  "id": "lsc-20-piw",
+  "level": "LSC",
+  "lesson": 20,
+  "type": "PiW",
+  "title": "PiW 20",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "Becoming a detective would be difficult."
+    },
+    {
+      "id": "s02",
+      "sentence": "I have to do three things to become a detective."
+    },
+    {
+      "id": "s03",
+      "sentence": "Studying about crimes will help me be a better detective."
+    },
+    {
+      "id": "s04",
+      "sentence": "I have to learn how to solve mysteries."
+    },
+    {
+      "id": "s05",
+      "sentence": "I need to have a secret camera to take videos of criminals."
+    },
+    {
+      "id": "s06",
+      "sentence": "I need it to take pictures of crimes."
+    },
+    {
+      "id": "s07",
+      "sentence": "It would be really exciting to be a detective."
+    },
+    {
+      "id": "s08",
+      "sentence": "Working as a detective would be exciting but dangerous."
+    }
+  ]
+}

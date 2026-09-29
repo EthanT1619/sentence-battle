@@ -1,0 +1,33 @@
+{
+  "id": "lsa-21-pis",
+  "level": "LSA",
+  "lesson": 21,
+  "type": "PiS",
+  "title": "PiS 21",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "Joey doesn't like it when I throw the newspaper."
+    },
+    {
+      "id": "s02",
+      "sentence": "She is shorter than me."
+    },
+    {
+      "id": "s03",
+      "sentence": "Susan taught me how to eat them with chopsticks."
+    },
+    {
+      "id": "s04",
+      "sentence": "I'll be a firefighter one day."
+    },
+    {
+      "id": "s05",
+      "sentence": "Joey is taking part in the race."
+    },
+    {
+      "id": "s06",
+      "sentence": "It was easy for me to beat him."
+    }
+  ]
+}

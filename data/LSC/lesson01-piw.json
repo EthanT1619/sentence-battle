@@ -1,0 +1,41 @@
+{
+  "id": "lsc-01-piw",
+  "level": "LSC",
+  "lesson": 1,
+  "type": "PiW",
+  "title": "PiW 1",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "You should always ask questions in class."
+    },
+    {
+      "id": "s02",
+      "sentence": "It's important to remember that you shouldn't talk while others are talking."
+    },
+    {
+      "id": "s03",
+      "sentence": "You can bring a snack to eat during recess."
+    },
+    {
+      "id": "s04",
+      "sentence": "However, you can't eat in class."
+    },
+    {
+      "id": "s05",
+      "sentence": "Most importantly, you must respect your classmates."
+    },
+    {
+      "id": "s06",
+      "sentence": "Whatever you do, you must not cheat on the test."
+    },
+    {
+      "id": "s07",
+      "sentence": "May I please borrow your pen?"
+    },
+    {
+      "id": "s08",
+      "sentence": "No, you may not open your book during the test."
+    }
+  ]
+}

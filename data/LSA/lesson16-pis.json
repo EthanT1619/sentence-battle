@@ -1,0 +1,33 @@
+{
+  "id": "lsa-16-pis",
+  "level": "LSA",
+  "lesson": 16,
+  "type": "PiS",
+  "title": "PiS 16",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "She tossed back and forth for a while."
+    },
+    {
+      "id": "s02",
+      "sentence": "We will find out the results today."
+    },
+    {
+      "id": "s03",
+      "sentence": "Everybody failed except one."
+    },
+    {
+      "id": "s04",
+      "sentence": "What if somebody else saw me, too?"
+    },
+    {
+      "id": "s05",
+      "sentence": "I cheated on the spelling test."
+    },
+    {
+      "id": "s06",
+      "sentence": "Julie tried not to think of how Kelly would react."
+    }
+  ]
+}

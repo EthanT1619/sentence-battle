@@ -1,0 +1,33 @@
+{
+  "id": "lsa-09-pis",
+  "level": "LSA",
+  "lesson": 9,
+  "type": "PiS",
+  "title": "PiS 9",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "How tall is that waterfall?"
+    },
+    {
+      "id": "s02",
+      "sentence": "I'm glad you enjoyed the ride."
+    },
+    {
+      "id": "s03",
+      "sentence": "Everyone settled in their seats."
+    },
+    {
+      "id": "s04",
+      "sentence": "I'll show you the map."
+    },
+    {
+      "id": "s05",
+      "sentence": "Farmers will have trouble feeding their cows."
+    },
+    {
+      "id": "s06",
+      "sentence": "Pollution is the main reason for global warming."
+    }
+  ]
+}

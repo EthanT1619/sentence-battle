@@ -1,0 +1,33 @@
+{
+  "id": "lsa-19-pis",
+  "level": "LSA",
+  "lesson": 19,
+  "type": "PiS",
+  "title": "PiS 19",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "That's because you were not listening to me again."
+    },
+    {
+      "id": "s02",
+      "sentence": "He had trouble communicating with other people."
+    },
+    {
+      "id": "s03",
+      "sentence": "It sounded like Mrs.Harris."
+    },
+    {
+      "id": "s04",
+      "sentence": "Kevin couldn't help but listen."
+    },
+    {
+      "id": "s05",
+      "sentence": "Mr.Matthews was giving out a pop quiz."
+    },
+    {
+      "id": "s06",
+      "sentence": "He had studied for the pop quiz."
+    }
+  ]
+}

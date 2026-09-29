@@ -1,0 +1,33 @@
+{
+  "id": "lsa-10-pis",
+  "level": "LSA",
+  "lesson": 10,
+  "type": "PiS",
+  "title": "PiS 10",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "Everyone seemed really excited to go on the hike."
+    },
+    {
+      "id": "s02",
+      "sentence": "She must have seen some cute animals."
+    },
+    {
+      "id": "s03",
+      "sentence": "Hannah was curious about the bears."
+    },
+    {
+      "id": "s04",
+      "sentence": "Hannah didn't know what to do."
+    },
+    {
+      "id": "s05",
+      "sentence": "That's exactly what we are going to present."
+    },
+    {
+      "id": "s06",
+      "sentence": "He wondered if it was his dad."
+    }
+  ]
+}

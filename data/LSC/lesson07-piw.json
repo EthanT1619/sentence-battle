@@ -1,0 +1,41 @@
+{
+  "id": "lsc-07-piw",
+  "level": "LSC",
+  "lesson": 7,
+  "type": "PiW",
+  "title": "PiW 7",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "There are many things I will need to do to prepare."
+    },
+    {
+      "id": "s02",
+      "sentence": "I will need a lot of money to have a big party."
+    },
+    {
+      "id": "s03",
+      "sentence": "I will invite just a few people, including my close friends."
+    },
+    {
+      "id": "s04",
+      "sentence": "The one place we will go is the beach."
+    },
+    {
+      "id": "s05",
+      "sentence": "I'll have a lot of pizza to eat at my party."
+    },
+    {
+      "id": "s06",
+      "sentence": "I'll have some cola to drink at my party."
+    },
+    {
+      "id": "s07",
+      "sentence": "How much money will you need for your party?"
+    },
+    {
+      "id": "s08",
+      "sentence": "How many people will you invite to your party?"
+    }
+  ]
+}

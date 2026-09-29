@@ -1,0 +1,33 @@
+{
+  "id": "lsa-14-pis",
+  "level": "LSA",
+  "lesson": 14,
+  "type": "PiS",
+  "title": "PiS 14",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "Shelly decided to fly towards the mountains."
+    },
+    {
+      "id": "s02",
+      "sentence": "Shelly kept climbing upward."
+    },
+    {
+      "id": "s03",
+      "sentence": "She told her about the sea birds."
+    },
+    {
+      "id": "s04",
+      "sentence": "Why don't you just go fly by yourself?"
+    },
+    {
+      "id": "s05",
+      "sentence": "I'm going to miss flying."
+    },
+    {
+      "id": "s06",
+      "sentence": "I shouldn't have talked about myself so much."
+    }
+  ]
+}

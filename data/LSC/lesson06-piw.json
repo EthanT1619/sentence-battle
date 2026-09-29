@@ -1,0 +1,41 @@
+{
+  "id": "lsc-06-piw",
+  "level": "LSC",
+  "lesson": 6,
+  "type": "PiW",
+  "title": "PiW 6",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "The best place I have traveled to is Thailand."
+    },
+    {
+      "id": "s02",
+      "sentence": "I did lots of interesting things there."
+    },
+    {
+      "id": "s03",
+      "sentence": "I visited the amusement park with my family."
+    },
+    {
+      "id": "s04",
+      "sentence": "I played on the beach there."
+    },
+    {
+      "id": "s05",
+      "sentence": "I ate hamburgers at a fast food restaurant."
+    },
+    {
+      "id": "s06",
+      "sentence": "Los Angeles is the most exciting place I have traveled to."
+    },
+    {
+      "id": "s07",
+      "sentence": "I would love to visit there again."
+    },
+    {
+      "id": "s08",
+      "sentence": "Where is the best place you have traveled to?"
+    }
+  ]
+}

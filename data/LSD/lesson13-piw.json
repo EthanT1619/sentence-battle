@@ -1,0 +1,41 @@
+{
+  "id": "lsd-13-piw",
+  "level": "LSD",
+  "lesson": 13,
+  "type": "PiW",
+  "title": "PiW 13",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "While looking out the window, Fogg had decided to hire John."
+    },
+    {
+      "id": "s02",
+      "sentence": "After Fogg had hired John, they traveled around the world together."
+    },
+    {
+      "id": "s03",
+      "sentence": "Before Fogg and John got to Hong Kong, the ship's engines had broken."
+    },
+    {
+      "id": "s04",
+      "sentence": "John had been shining shoes when Fogg hired him."
+    },
+    {
+      "id": "s05",
+      "sentence": "Fogg looked for a boat after he had arrived in Hong Kong."
+    },
+    {
+      "id": "s06",
+      "sentence": "John had never been to Egypt before."
+    },
+    {
+      "id": "s07",
+      "sentence": "If Fix had gotten a warrant, he would have arrested Fogg."
+    },
+    {
+      "id": "s08",
+      "sentence": "By the time John left Suez, he had already talked to Fix."
+    }
+  ]
+}

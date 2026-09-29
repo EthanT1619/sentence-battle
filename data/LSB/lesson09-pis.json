@@ -1,0 +1,41 @@
+{
+  "id": "lsb-09-pis",
+  "level": "LSB",
+  "lesson": 9,
+  "type": "PiS",
+  "title": "PiS 9",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "Going on a bike trip is nothing compared to that."
+    },
+    {
+      "id": "s02",
+      "sentence": "It's hard to see how big they really are."
+    },
+    {
+      "id": "s03",
+      "sentence": "They're so much bigger than I thought."
+    },
+    {
+      "id": "s04",
+      "sentence": "I don't think the tide is high."
+    },
+    {
+      "id": "s05",
+      "sentence": "She always trusted him to make smart decisions."
+    },
+    {
+      "id": "s06",
+      "sentence": "You have to let go of my arm."
+    },
+    {
+      "id": "s07",
+      "sentence": "I'm too tired to be funny."
+    },
+    {
+      "id": "s08",
+      "sentence": "I wish we had our backpacks."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "lsb-19-pis",
+  "level": "LSB",
+  "lesson": 19,
+  "type": "PiS",
+  "title": "PiS 19",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "She had always wanted to be on a sports team."
+    },
+    {
+      "id": "s02",
+      "sentence": "She wasn't really a part of the team at all."
+    },
+    {
+      "id": "s03",
+      "sentence": "She had managed to make her life miserable."
+    },
+    {
+      "id": "s04",
+      "sentence": "She was about to take off in flight."
+    },
+    {
+      "id": "s05",
+      "sentence": "She had never thought about using her left foot."
+    },
+    {
+      "id": "s06",
+      "sentence": "She didn't have time to pick on Jenny."
+    },
+    {
+      "id": "s07",
+      "sentence": "She was improving faster than anyone else on the team."
+    },
+    {
+      "id": "s08",
+      "sentence": "She couldn't wait to tell Danny."
+    }
+  ]
+}

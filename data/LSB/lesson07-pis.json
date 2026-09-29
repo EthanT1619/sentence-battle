@@ -1,0 +1,41 @@
+{
+  "id": "lsb-07-pis",
+  "level": "LSB",
+  "lesson": 7,
+  "type": "PiS",
+  "title": "PiS 7",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "She read through the names."
+    },
+    {
+      "id": "s02",
+      "sentence": "All I can do is run fast."
+    },
+    {
+      "id": "s03",
+      "sentence": "She wasn't chosen to be on the soccer team."
+    },
+    {
+      "id": "s04",
+      "sentence": "Are you interested in auditioning?"
+    },
+    {
+      "id": "s05",
+      "sentence": "I'd like you to read the part of Annie."
+    },
+    {
+      "id": "s06",
+      "sentence": "I had a very good feeling after your audition."
+    },
+    {
+      "id": "s07",
+      "sentence": "I'm crying because I'm happy."
+    },
+    {
+      "id": "s08",
+      "sentence": "They are all asking for her autograph."
+    }
+  ]
+}

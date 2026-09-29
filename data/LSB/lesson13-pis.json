@@ -1,0 +1,41 @@
+{
+  "id": "lsb-13-pis",
+  "level": "LSB",
+  "lesson": 13,
+  "type": "PiS",
+  "title": "PiS 13",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "I've been coming with my mom to volunteer at the RRR for five years."
+    },
+    {
+      "id": "s02",
+      "sentence": "He can't get out of bed."
+    },
+    {
+      "id": "s03",
+      "sentence": "He's lying in bed all the time."
+    },
+    {
+      "id": "s04",
+      "sentence": "I was sound asleep in my bed."
+    },
+    {
+      "id": "s05",
+      "sentence": "He was the tallest man I had ever seen."
+    },
+    {
+      "id": "s06",
+      "sentence": "You must eat nothing other than Cheesy Man Dinner."
+    },
+    {
+      "id": "s07",
+      "sentence": "I am getting a little tired of Cheesy Man Dinner."
+    },
+    {
+      "id": "s08",
+      "sentence": "I'm not interested in normal things."
+    }
+  ]
+}

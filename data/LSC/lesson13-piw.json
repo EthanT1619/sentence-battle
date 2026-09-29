@@ -1,0 +1,41 @@
+{
+  "id": "lsc-13-piw",
+  "level": "LSC",
+  "lesson": 13,
+  "type": "PiW",
+  "title": "PiW 13",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "For my vacation, I will go to Thailand."
+    },
+    {
+      "id": "s02",
+      "sentence": "I will travel with my family."
+    },
+    {
+      "id": "s03",
+      "sentence": "While I'm there, I'm going to go surfing."
+    },
+    {
+      "id": "s04",
+      "sentence": "During my vacation, I'm not going to do any homework."
+    },
+    {
+      "id": "s05",
+      "sentence": "I'm going to travel to Greece because it looks fun."
+    },
+    {
+      "id": "s06",
+      "sentence": "Are you going to travel to America this summer?"
+    },
+    {
+      "id": "s07",
+      "sentence": "Will it be okay to take the dog with us on vacation?"
+    },
+    {
+      "id": "s08",
+      "sentence": "I think my vacation is going to be really fun."
+    }
+  ]
+}

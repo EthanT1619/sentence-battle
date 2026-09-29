@@ -1,0 +1,41 @@
+{
+  "id": "lsd-03-piw",
+  "level": "LSD",
+  "lesson": 3,
+  "type": "PiW",
+  "title": "PiW 3",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "Oliver was asking for more food while the other boys watched."
+    },
+    {
+      "id": "s02",
+      "sentence": "Oliver was sitting on a step when he met the Artful Dodger."
+    },
+    {
+      "id": "s03",
+      "sentence": "The Artful Dodger was being kind to Oliver."
+    },
+    {
+      "id": "s04",
+      "sentence": "Fagin was pretending to be a fine gentleman during the game."
+    },
+    {
+      "id": "s05",
+      "sentence": "Oliver was getting good at playing the game."
+    },
+    {
+      "id": "s06",
+      "sentence": "Mr.Brownlow was not being mean to Oliver."
+    },
+    {
+      "id": "s07",
+      "sentence": "The Artful Dodger and Charlie were not helping Oliver."
+    },
+    {
+      "id": "s08",
+      "sentence": "The boys were trying to steal from rich people."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "lsa-07-pis",
+  "level": "LSA",
+  "lesson": 7,
+  "type": "PiS",
+  "title": "PiS 7",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "It was a little hard to notice Jimmy."
+    },
+    {
+      "id": "s02",
+      "sentence": "Miss Gwen gave up asking Jimmy anything."
+    },
+    {
+      "id": "s03",
+      "sentence": "It was time for writing."
+    },
+    {
+      "id": "s04",
+      "sentence": "He concentrated on brainstorming more ideas."
+    },
+    {
+      "id": "s05",
+      "sentence": "He was too scared to cry out for help."
+    },
+    {
+      "id": "s06",
+      "sentence": "Their heads were as big as Jimmy's."
+    }
+  ]
+}

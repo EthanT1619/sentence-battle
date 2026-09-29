@@ -1,0 +1,41 @@
+{
+  "id": "lsd-06-piw",
+  "level": "LSD",
+  "lesson": 6,
+  "type": "PiW",
+  "title": "PiW 6",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "I have always wanted to go on a safari."
+    },
+    {
+      "id": "s02",
+      "sentence": "I would love to go to South Africa for a safari adventure."
+    },
+    {
+      "id": "s03",
+      "sentence": "I want to go to Hawaii because I want to try surfing."
+    },
+    {
+      "id": "s04",
+      "sentence": "I want to take photos of all the amazing animals."
+    },
+    {
+      "id": "s05",
+      "sentence": "I would have my brother join me on my trip."
+    },
+    {
+      "id": "s06",
+      "sentence": "It would be so exciting to see these animals in the wild."
+    },
+    {
+      "id": "s07",
+      "sentence": "Without a doubt, I would love to go to Egypt and see the pyramids."
+    },
+    {
+      "id": "s08",
+      "sentence": "What kind of adventure would you like to have?"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "lsb-10-pis",
+  "level": "LSB",
+  "lesson": 10,
+  "type": "PiS",
+  "title": "PiS 10",
+  "sentences": [
+    {
+      "id": "s01",
+      "sentence": "He hadn't returned in time for dinner."
+    },
+    {
+      "id": "s02",
+      "sentence": "I was wondering why he hadn't called."
+    },
+    {
+      "id": "s03",
+      "sentence": "He had a new backpack to go with his new bike."
+    },
+    {
+      "id": "s04",
+      "sentence": "We saw a couple of bikes on top of the mountain."
+    },
+    {
+      "id": "s05",
+      "sentence": "There are a few places to hide safely up there."
+    },
+    {
+      "id": "s06",
+      "sentence": "I guess it was a really high tide."
+    },
+    {
+      "id": "s07",
+      "sentence": "I told you not to worry."
+    },
+    {
+      "id": "s08",
+      "sentence": "Our parents are just relieved to see us."
+    }
+  ]
+}
