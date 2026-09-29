@@ -4,6 +4,11 @@
   "description": "Sentence Battle — local dev server for curriculum fetch",
   "scripts": {
     "start": "npx --yes http-server . -p 8080 -c-1",
-    "dev": "npx --yes http-server . -p 8080 -c-1"
+    "dev": "npx --yes http-server . -p 8080 -c-1",
+    "convert-pis-piw": "node tools/convert-pis-piw.mjs",
+    "test": "node tests/p1-curriculum.mjs && node tests/pis-piw-convert.mjs"
+  },
+  "devDependencies": {
+    "xlsx": "^0.18.5"
   }
 }
